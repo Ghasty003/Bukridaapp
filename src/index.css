@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: rgb(21, 20, 20);
+    color: white;
+    scroll-behavior: smooth;
+}
+
+.glass {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(40px);
+}
+
+.nav {
+    animation: nav 1s;
+}
+
+.bukrida {
+    animation: bukrida 1s;
+}
+
+.btn {
+    box-shadow: 2px 2px 5px black;
+}
+
+.head {
+    animation: head 1s;
+}
+
+div.animate {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+div.anim {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+@keyframes nav {
+    from {
+        transform: translateX(-80px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes bukrida {
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes head {
+    from {
+        transform: translateY(-100px);
+    }
+}

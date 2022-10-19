@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c0fc2bb.css",
+    "main.js": "/static/js/main.64bc7f40.js",
+    "static/media/Bukrida.png": "/static/media/Bukrida.e9bfadb69d9412bf17fa.png",
+    "static/media/buk-3.svg": "/static/media/buk-3.7591922407c4618bb2c5e85211fa6cee.svg",
+    "static/media/buk-2.svg": "/static/media/buk-2.4f1f5f7f7fed2a0d069d4f935455c6b8.svg",
+    "static/media/buk-1.svg": "/static/media/buk-1.9c67b4a0a269d7824c57e9cc4c0863a8.svg",
+    "static/media/buk-4.svg": "/static/media/buk-4.16c647da5722b36c63538e67e7176185.svg",
+    "static/media/buk-logo.svg": "/static/media/buk-logo.2198bbbe7fd3b3ada0e11faecc80ddc0.svg",
+    "index.html": "/index.html",
+    "main.0c0fc2bb.css.map": "/static/css/main.0c0fc2bb.css.map",
+    "main.64bc7f40.js.map": "/static/js/main.64bc7f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0fc2bb.css",
+    "static/js/main.64bc7f40.js"
+  ]
+}
